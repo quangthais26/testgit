@@ -50,6 +50,8 @@ namespace Helloworld.c_
             Math.Sqrt(16); // trả về căn bậc 2 của số 
             Math.Abs(-5.5); // trả về giá trị tuyệt đối dương của số
             Math.Round(5.75); // trả về số nguyên gần nhất của số thực
+
+            //KAJSH fdiouASH diuHSAOIdgASOUsd jfaoisudhfiausdhfpiashdfpiuhsaipfhsaipfhaipsdhfipaudhsfipsah
         }
     }
 }
