@@ -43,6 +43,8 @@ namespace Helloworld.c_
             string result = (time2 < 18) ? "Good day." : "Good evening.";
             Console.WriteLine(result); // trả về "Good evening." vì 20 lớn hơn 18 //cứ hiểu như ? là if còn : là else
 
+            //ALSKJHd kjASoaIS JiosADhsoxc ihjuoi uhos asihu huisaiu hd iuhsiuh asds iuh uihsa iusa uih súi iuhs iuhs aiuh
+
         }
     }
 }
