@@ -63,7 +63,9 @@ namespace Helloworld.c_
             foreach (int ie in myNumbers)
             {
                 Console.WriteLine(ie);
-            } // trả về 10 2 3 4 5 6 7 8 9 vì đã được thay thế từ 1 thành 10 và lặp qua tất cả phần tử trong mảng đa chiều    
+            } // trả về 10 2 3 4 5 6 7 8 9 vì đã được thay thế từ 1 thành 10 và lặp qua tất cả phần tử trong mảng đa chiều
+              // 
+              //iuA HdioJASHdok jkasbjn chjk shj hkdsAhkj asdhjk sadjkhs ad jhsa dhjks adjbkhs jakhd shjkda asdhjk ashjkd jhk
         }
     }
 }
