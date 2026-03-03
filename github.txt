@@ -1,0 +1,27 @@
+﻿
+quy trình sử dụng git có nhiều người (khi mới tạo dự án):
+1. Thiết lặp ban đầu
+	-tạo kho lưu trữ
+	-thêm các thành viên
+	-các thành viên phải clone project về máy:
+		git clone<url>
+
+2.Cách làm việc hàng ngày 
+	-chuyển về nhánh chính: 
+		git check main (hoặc là master)
+
+	-pull code mới nhất về từ nhóm: 
+		git pul origin main
+
+	-tạo các nhánh(brach) cho các tính năng để mỗi người có thể code 1 chức năng riêng: 
+		git checkout -b feature/ tên tính năng
+
+3.Commit và đẩy code 
+	-thực hiện code và lưu thay đỏi:
+		git add ,
+		git commit -m "ghi rõ mô tả mà bạn đã làm với nhánh đó"
+
+	-đẩy nhánh lên remote:
+		git push origin feature/ tên tính năng
+
+	-
